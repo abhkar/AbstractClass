@@ -6,5 +6,8 @@ public class Main {
 
         Bike b=new Honda();
         b.run();
+        b.num();
+        int i=Test.work();
+        System.out.println(i);
     }
 }
