@@ -2,12 +2,8 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        //System.out.println("Hello world!");
-
-        A a=new M();
-        a.a();
-        a.b();
-        a.c();
-        a.d();
+        Car c1=new Maruti();
+        c1.sample1();
+        c1.sample2();
     }
 }
